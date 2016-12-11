@@ -1,6 +1,8 @@
 
 ## E-Nose-PCA-Cluster
 
+##### View full report: https://nbviewer.jupyter.org/github/farazhb/Olympics-GDP/blob/master/medals_gdp.ipynb
+
 Clustering and presenting the reduced dimensional view of responses to an electronic nose exposed to various edible substances
 
 - 2016-12-5   Small correction to js cell togle hiding-showing input code
