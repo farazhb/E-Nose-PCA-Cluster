@@ -1,7 +1,7 @@
 
 ## E-Nose-PCA-Cluster
 
-##### View report in nbviewer: http://nbviewer.jupyter.org/github/farazhb/E-Nose-PCA-Cluster/blob/a14717c8f404956296f1549cd02ac78fd4c609bd/e_nose.ipynb
+<!-- ##### View report in nbviewer: http://nbviewer.jupyter.org/github/farazhb/E-Nose-PCA-Cluster/blob/a14717c8f404956296f1549cd02ac78fd4c609bd/e_nose.ipynb -->
 
 Clustering and presenting the reduced dimensional view of responses to an electronic nose exposed to various edible substances
 
