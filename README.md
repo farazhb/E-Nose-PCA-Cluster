@@ -1,11 +1,12 @@
 
 ## E-Nose-PCA-Cluster
 
-##### View report in nbviewer: http://nbviewer.jupyter.org/github/farazhb/E-Nose-PCA-Cluster/blob/2c3a2941c73361eb22c13a67fa73d9523e39a1a4/e_nose.ipynb
+##### View report in nbviewer: http://nbviewer.jupyter.org/github/farazhb/E-Nose-PCA-Cluster/blob/041095cbc7c5b46d3f2ada1930fa2faa7559cb10/e_nose.ipynb
 
 
 Clustering and presenting the reduced dimensional view of responses to an electronic nose exposed to various edible substances
 
+- 2016-12-18  Made corrections to and completed the project and its report. Removed redundant variables and cells and cleaned style.
 - 2016-12-14  Wrote the report
 - 2016-12-14  Optimized parameters for all clustering methods, rearranged plots in figures, and cleaned up. All ready except report composition
 - 2016-12-13  Added clustering methods {Affinity propagation, Mean-shift, and DBSCAN} and ptimized their parameters; plot funct improv
