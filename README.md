@@ -1,8 +1,15 @@
 
 ## E-Nose-PCA-Cluster
 
+An analysis of odor signal segmentation using various means of clustering and the review of comparing the results of the different methods.
+
+The data is obtained from experiments of an electronic nose device's current-voltage measurements when exposed to various types of gases/odors.
+
+
+
 ##### View report in nbviewer: http://nbviewer.jupyter.org/url/farazhb.com/data/e_nose.ipynb
 
+### Dev history:
 
 Clustering and presenting the reduced dimensional view of responses to an electronic nose exposed to various edible substances
 
